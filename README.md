@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tim!
-- 🔭 I’m currently working on Middle-Aware along with some other fun projects!
+- 🔭 I’m currently working on Middle-Aware, an open source call stack visualizer for Express developers, along with some other fun projects!
 - 👯 I’m looking to collaborate on challenging and interesting problems, including but not limited to the developer experience!
 - 💬 Ask me about Middle-Aware and its instrumentation pipeline!
 
