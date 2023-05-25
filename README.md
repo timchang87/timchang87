@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, my name is Tim!
+- 🔭 I’m currently working on Middle-Aware along with some other fun projects!
+- 👯 I’m looking to collaborate on challenging and interesting problems, including but not limited to the developer experience!
+- 💬 Ask me about Middle-Aware and its instrumentation pipeline!
 
 <!--
 **timchang87/timchang87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
